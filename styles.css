@@ -1,0 +1,24 @@
+body {
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.main-img {
+    width: 200px;
+    border: 4px solid #F0EBD8;
+    border-radius: 6px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 25px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #748CAB;
+    color: #0D1321;
+    border: 6px solid #F0EBD8;
+    border-radius: 12px;
+}
+
